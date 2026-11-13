@@ -1,0 +1,721 @@
+{
+  "accounts": [
+    {
+      "accId": "7649590246775767047",
+      "partner": "đối tác trung",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794516696376,
+      "updatedAt": 1794516696376
+    },
+    {
+      "accId": "7671518074243678228",
+      "partner": "đối tác trung",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794516704122,
+      "updatedAt": 1794517041027
+    },
+    {
+      "accId": "7585871613724377104",
+      "partner": "Mr Teeds 7%",
+      "haudai": "chuyendoi7sc14",
+      "status": 6,
+      "note": "",
+      "createdAt": 1794516733550,
+      "updatedAt": 1794519831876,
+      "content": "Ảnh",
+      "bidType": "Bid thầu"
+    },
+    {
+      "accId": "7586466423174774800",
+      "partner": "Mr Teeds 7%",
+      "haudai": "chuyendoi7sc7",
+      "status": 6,
+      "note": "",
+      "createdAt": 1794516762040,
+      "updatedAt": 1794519943840,
+      "content": "Ảnh",
+      "bidType": "Bid thầu"
+    },
+    {
+      "accId": "7586405148315500561",
+      "partner": "Annie",
+      "haudai": "chuyendoi7sc6",
+      "status": 6,
+      "note": "",
+      "createdAt": 1794516776694,
+      "updatedAt": 1794542591779,
+      "content": "Video",
+      "bidType": "Bid thầu"
+    },
+    {
+      "accId": "7586465017885900817",
+      "partner": "Mr Teeds 7%",
+      "haudai": "chuyendoi7sc6",
+      "status": 6,
+      "note": "không cắn tiền",
+      "createdAt": 1794516860402,
+      "updatedAt": 1794542865991,
+      "content": "Ảnh",
+      "bidType": "Bid thầu"
+    },
+    {
+      "accId": "7585821789247438866",
+      "partner": "Mr Teeds 7%",
+      "haudai": "chuyendoi7sc13",
+      "status": 6,
+      "note": "lỗi thanh toán",
+      "createdAt": 1794516860402,
+      "updatedAt": 1794542819566,
+      "content": "Ảnh",
+      "bidType": "Bid thầu"
+    },
+    {
+      "accId": "7585815748333977618",
+      "partner": "Mr Teeds 7%",
+      "haudai": "chuyendoi7sc13",
+      "status": 6,
+      "note": "lỗi thanh toán",
+      "createdAt": 1794516860402,
+      "updatedAt": 1794542791236,
+      "content": "Ảnh",
+      "bidType": "Bid thầu"
+    },
+    {
+      "accId": "7585815622030721025",
+      "partner": "Mr Teeds 7%",
+      "haudai": "chuyendoi7sc13",
+      "status": 6,
+      "note": "lỗi thanh toán",
+      "createdAt": 1794516860402,
+      "updatedAt": 1794542771889,
+      "content": "Ảnh",
+      "bidType": "Bid thầu"
+    },
+    {
+      "accId": "7585827398550274065",
+      "partner": "Mr Teeds 7%",
+      "haudai": "chuyendoi7sc13",
+      "status": 6,
+      "note": "lỗi thanh toán",
+      "createdAt": 1794516860402,
+      "updatedAt": 1794542744929,
+      "content": "Ảnh",
+      "bidType": "Bid thầu"
+    },
+    {
+      "accId": "7585821819580694545",
+      "partner": "Mr Teeds 7%",
+      "haudai": "chuyendoi7sc13",
+      "status": 6,
+      "note": "lỗi thanh toán",
+      "createdAt": 1794516860402,
+      "updatedAt": 1794542719550,
+      "content": "Ảnh",
+      "bidType": "Bid thầu"
+    },
+    {
+      "accId": "7585815071327043585",
+      "partner": "Mr Teeds 7%",
+      "haudai": "chuyendoi7sc13",
+      "status": 6,
+      "note": "lỗi thanh toán",
+      "createdAt": 1794516860402,
+      "updatedAt": 1794542664999,
+      "content": "Ảnh",
+      "bidType": "Bid thầu"
+    },
+    {
+      "accId": "7585856179033653249",
+      "partner": "MR HUNTER",
+      "haudai": "chuyendoi7sc6",
+      "status": 6,
+      "note": "không cắn tiền",
+      "createdAt": 1794516876099,
+      "updatedAt": 1794542950161,
+      "content": "Ảnh",
+      "bidType": "Bid thầu"
+    },
+    {
+      "accId": "7586409981684154369",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 6,
+      "note": "ko set dc vn",
+      "createdAt": 1794516889618,
+      "updatedAt": 1794543088268,
+      "content": "",
+      "bidType": ""
+    },
+    {
+      "accId": "7586426316862308369",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 6,
+      "note": "ko set dc vn",
+      "createdAt": 1794516901160,
+      "updatedAt": 1794543009473
+    },
+    {
+      "accId": "7566353255532085265",
+      "partner": "MR HUNTER",
+      "haudai": "chuyendoi7sc6",
+      "status": 3,
+      "note": "",
+      "createdAt": 1794516912010,
+      "updatedAt": 1794543107732,
+      "content": "Ảnh",
+      "bidType": "Bid thầu"
+    },
+    {
+      "accId": "7566514383258419217",
+      "partner": "MR HUNTER",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794517011818,
+      "updatedAt": 1794517011818
+    },
+    {
+      "accId": "7566513746424987664",
+      "partner": "MR HUNTER",
+      "haudai": "chuyendoi7sc14",
+      "status": 2,
+      "note": "treo sét duyệt",
+      "createdAt": 1794517011818,
+      "updatedAt": 1794543169668,
+      "content": "Ảnh",
+      "bidType": "Bid thầu"
+    },
+    {
+      "accId": "7586466531656351745",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519114846,
+      "updatedAt": 1794519114846
+    },
+    {
+      "accId": "7586466501147050001",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519114846,
+      "updatedAt": 1794519114846
+    },
+    {
+      "accId": "7586466498063990801",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519114846,
+      "updatedAt": 1794519114846
+    },
+    {
+      "accId": "7586466468691492865",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519114846,
+      "updatedAt": 1794519114846
+    },
+    {
+      "accId": "7586463145979510785",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519114846,
+      "updatedAt": 1794519114846
+    },
+    {
+      "accId": "7586463126885416977",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519114846,
+      "updatedAt": 1794519114846
+    },
+    {
+      "accId": "7586463080012365825",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519114846,
+      "updatedAt": 1794519114846
+    },
+    {
+      "accId": "7586462986727014416",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519114846,
+      "updatedAt": 1794519114846
+    },
+    {
+      "accId": "7586462799350824976",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519114846,
+      "updatedAt": 1794519114846
+    },
+    {
+      "accId": "7586462795317297169",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519114846,
+      "updatedAt": 1794519114846
+    },
+    {
+      "accId": "7586462749660823569",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519114846,
+      "updatedAt": 1794519114846
+    },
+    {
+      "accId": "7586462735030976513",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519114846,
+      "updatedAt": 1794519114846
+    },
+    {
+      "accId": "7586402733750550529",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586402637860372496",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586402599847575553",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586402538438623249",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586402366166040577",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586402263632003089",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586402182837174289",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586402062817296400",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586402047018778640",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586401970165104641",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586401834105946129",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586401756272181264",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586401676471549968",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586401651490144272",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586401591427612688",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586401500033859585",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586401380798349313",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586401256399421456",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586398116450992129",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586397356934053905",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586397024468271121",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586396918786113552",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7586396855645044737",
+      "partner": "Annie",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519329356,
+      "updatedAt": 1794519329356
+    },
+    {
+      "accId": "7566515626987241488",
+      "partner": "MR HUNTER",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519352330,
+      "updatedAt": 1794519352330
+    },
+    {
+      "accId": "7586473065448308752",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519430640,
+      "updatedAt": 1794519430640
+    },
+    {
+      "accId": "7586473008450289665",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519430640,
+      "updatedAt": 1794519430640
+    },
+    {
+      "accId": "7586472907354832912",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519430640,
+      "updatedAt": 1794519430640
+    },
+    {
+      "accId": "7586471672028135441",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519430640,
+      "updatedAt": 1794519430640
+    },
+    {
+      "accId": "7586471599646408705",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519430640,
+      "updatedAt": 1794519430640
+    },
+    {
+      "accId": "7586471546265550865",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519430640,
+      "updatedAt": 1794519430640
+    },
+    {
+      "accId": "7586471499113152528",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519430640,
+      "updatedAt": 1794519430640
+    },
+    {
+      "accId": "7586471492301455376",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519430640,
+      "updatedAt": 1794519430640
+    },
+    {
+      "accId": "7586471436275761153",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519430640,
+      "updatedAt": 1794519430640
+    },
+    {
+      "accId": "7586471376471556112",
+      "partner": "Mr Teeds 7%",
+      "haudai": "",
+      "status": 1,
+      "note": "",
+      "createdAt": 1794519430640,
+      "updatedAt": 1794519430640
+    }
+  ],
+  "haudai": [
+    "chuyendoi7sc14",
+    "chuyendoi7sc7",
+    "chuyendoi7sc6",
+    "chuyendoi7sc13"
+  ],
+  "spend": [],
+  "currency": "USD",
+  "pages": [],
+  "facebook": {
+    "accounts": [
+      {
+        "accId": "1473492746738720",
+        "tz": "GMT+07:00 · Asia/Saigon",
+        "accName": "JONNI 3B + BM Scan Thẻ CTY + DT Công Luật 793667",
+        "partner": "Công luật",
+        "haudai": "mồi camp",
+        "status": 11,
+        "spendState": "Chưa sử dụng",
+        "note": "",
+        "createdAt": 1794543526548,
+        "updatedAt": 1794543615874
+      },
+      {
+        "accId": "1018040122973078",
+        "tz": "GMT+07:00 · Asia/Saigon",
+        "accName": "JONNI 3B + BM Scan Thẻ CTY + DT Công Luật 551161",
+        "partner": "Công luật",
+        "haudai": "mồi camp",
+        "status": 11,
+        "spendState": "Chưa sử dụng",
+        "note": "",
+        "createdAt": 1794543526548,
+        "updatedAt": 1794543618892
+      },
+      {
+        "accId": "1423091271932542",
+        "tz": "GMT+07:00 · Asia/Saigon",
+        "accName": "JONNI 3B + BM Scan Thẻ CTY + DT Công Luật 967754",
+        "partner": "Công luật",
+        "haudai": "mồi camp",
+        "status": 11,
+        "spendState": "Chưa sử dụng",
+        "note": "",
+        "createdAt": 1794543526548,
+        "updatedAt": 1794543619644
+      },
+      {
+        "accId": "1173117586998441",
+        "tz": "GMT+07:00 · Asia/Saigon",
+        "accName": "JONNI 3B + BM Scan Thẻ CTY + DT Công Luật 523792",
+        "partner": "Công luật",
+        "haudai": "mồi camp",
+        "status": 11,
+        "spendState": "Chưa sử dụng",
+        "note": "",
+        "createdAt": 1794543526548,
+        "updatedAt": 1794543620189
+      },
+      {
+        "accId": "768540615124830",
+        "tz": "GMT+07:00 · Asia/Saigon",
+        "accName": "JONNI 3B + BM Scan Thẻ CTY + DT Công Luật 966069",
+        "partner": "Công luật",
+        "haudai": "mồi camp",
+        "status": 11,
+        "spendState": "Chưa sử dụng",
+        "note": "",
+        "createdAt": 1794543526548,
+        "updatedAt": 1794543620808
+      },
+      {
+        "accId": "1099310482796976",
+        "tz": "GMT+07:00 · Asia/Saigon",
+        "accName": "JONNI 3B + BM Scan Thẻ CTY + DT Công Luật 376021",
+        "partner": "Công luật",
+        "haudai": "mồi camp",
+        "status": 11,
+        "spendState": "Chưa sử dụng",
+        "note": "",
+        "createdAt": 1794543526548,
+        "updatedAt": 1794543624597
+      }
+    ],
+    "haudai": [
+      "mồi camp"
+    ],
+    "spend": [],
+    "currency": "VNĐ",
+    "pages": []
+  },
+  "linkNotes": [
+    {
+      "id": "mweh0dkg0ssc6",
+      "platform": "TikTok",
+      "hd": "chuyendoi7sc2",
+      "hdNum": "9542611",
+      "web": "https://www.sc88zc.vip/?cid=9542611",
+      "link": "https://www.nammoiden.store/up1.chuyendoi7sc2",
+      "note": "",
+      "createdAt": 1794543742384
+    },
+    {
+      "id": "mwegzcun06prh",
+      "platform": "Facebook",
+      "hd": "chuyendoi7sc12",
+      "hdNum": "8447905",
+      "web": "https://www.sc88zc.vip/?cid=8447905",
+      "link": "https://www.sc88zc.vip/?cid=8447905",
+      "note": "",
+      "createdAt": 1794543694799
+    }
+  ]
+}
